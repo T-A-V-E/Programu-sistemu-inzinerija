@@ -1,1 +1,1 @@
-# Programu-sistemu-inzinerija
+# Programų sistemų inžinerijos modulio projekto github repozitorija 
